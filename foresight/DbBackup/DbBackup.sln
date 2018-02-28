@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbBackup", "DbBackup\DbBackup.csproj", "{F6128D15-2344-4B26-8E17-CDF7C39D1B8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbBackupTests", "DbBackupTests\DbBackupTests.csproj", "{EDC64090-769D-461F-81C6-18BEB68EDB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterface", "UserInterface\UserInterface.csproj", "{489EBAAC-8CBC-4C98-B463-1F32BBB988C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6128D15-2344-4B26-8E17-CDF7C39D1B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6128D15-2344-4B26-8E17-CDF7C39D1B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6128D15-2344-4B26-8E17-CDF7C39D1B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6128D15-2344-4B26-8E17-CDF7C39D1B8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC64090-769D-461F-81C6-18BEB68EDB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC64090-769D-461F-81C6-18BEB68EDB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC64090-769D-461F-81C6-18BEB68EDB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC64090-769D-461F-81C6-18BEB68EDB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489EBAAC-8CBC-4C98-B463-1F32BBB988C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489EBAAC-8CBC-4C98-B463-1F32BBB988C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489EBAAC-8CBC-4C98-B463-1F32BBB988C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489EBAAC-8CBC-4C98-B463-1F32BBB988C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

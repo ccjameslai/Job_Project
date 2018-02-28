@@ -1,0 +1,15 @@
+D:\EMRC\All program\MESWebService\ReplyServiceForUMC\ReplyService\bin\App_Data\system.ini
+D:\EMRC\All program\MESWebService\ReplyServiceForUMC\ReplyService\bin\ReplyService.dll
+D:\EMRC\All program\MESWebService\ReplyServiceForUMC\ReplyService\bin\ReplyService.pdb
+D:\EMRC\All program\MESWebService\ReplyServiceForUMC\ReplyService\bin\AVMUtility.dll
+D:\EMRC\All program\MESWebService\ReplyServiceForUMC\ReplyService\bin\AVMUtility.xml
+D:\EMRC\All program\MESWebService\ReplyServiceForUMC\ReplyService\obj\x86\Release\ResolveAssemblyReference.cache
+D:\EMRC\All program\MESWebService\ReplyServiceForUMC\ReplyService\obj\x86\Release\ReplyService.dll
+D:\EMRC\All program\MESWebService\ReplyServiceForUMC\ReplyService\obj\x86\Release\ReplyService.pdb
+D:\EMRC\Programs\UMC_Result\ReplyServiceForUMC\ReplyService\bin\App_Data\system.ini
+D:\EMRC\Programs\UMC_Result\ReplyServiceForUMC\ReplyService\bin\ReplyService.dll
+D:\EMRC\Programs\UMC_Result\ReplyServiceForUMC\ReplyService\bin\ReplyService.pdb
+D:\EMRC\Programs\UMC_Result\ReplyServiceForUMC\ReplyService\bin\AVMUtility.dll
+D:\EMRC\Programs\UMC_Result\ReplyServiceForUMC\ReplyService\obj\x86\Release\ResolveAssemblyReference.cache
+D:\EMRC\Programs\UMC_Result\ReplyServiceForUMC\ReplyService\obj\x86\Release\ReplyService.dll
+D:\EMRC\Programs\UMC_Result\ReplyServiceForUMC\ReplyService\obj\x86\Release\ReplyService.pdb

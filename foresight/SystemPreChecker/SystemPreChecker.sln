@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemPreChecker", "SystemPreChecker\SystemPreChecker.csproj", "{D53DD13E-85DB-4FDA-B77B-2617BDFE3778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTester", "ApiTester\ApiTester.csproj", "{AF7F24EC-2ACB-44C3-8884-D2524E3AE8AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemPreCheckerTests", "SystemPreCheckerTests\SystemPreCheckerTests.csproj", "{76F402D6-6E7C-4739-B5C7-823000212164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D53DD13E-85DB-4FDA-B77B-2617BDFE3778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53DD13E-85DB-4FDA-B77B-2617BDFE3778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53DD13E-85DB-4FDA-B77B-2617BDFE3778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53DD13E-85DB-4FDA-B77B-2617BDFE3778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7F24EC-2ACB-44C3-8884-D2524E3AE8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7F24EC-2ACB-44C3-8884-D2524E3AE8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7F24EC-2ACB-44C3-8884-D2524E3AE8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7F24EC-2ACB-44C3-8884-D2524E3AE8AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F402D6-6E7C-4739-B5C7-823000212164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F402D6-6E7C-4739-B5C7-823000212164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F402D6-6E7C-4739-B5C7-823000212164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F402D6-6E7C-4739-B5C7-823000212164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
